@@ -1,3 +1,7 @@
+#Lanette Tyler
+#ST554 Spring 2026
+#Homework 6, Part 2
+
 #import modules
 import matplotlib.pyplot as plt
 import numpy as np
