@@ -117,7 +117,7 @@ demo.run_simulations(10000)
 demo.plot_sampling_distribution()
 
 #approximate probability as specified
-demo.find_prob(2.1, "two-sided")
+print(demo.find_prob(2.1, "two-sided"))
 
 #print out simulated slope values using slopes attribute
-demo.slopes
+print(demo.slopes[:10])
